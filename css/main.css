@@ -571,7 +571,7 @@ h1, h2, h3, h4, h5, h6, p, ul{
 }
 .classification__stars{
     display: inline-block;
-    background: url(../assets/star.svg) space;
+    background: url(../Assets/star.svg) space;
     width: 100px;
     margin-right: 1em;
 }
