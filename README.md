@@ -14,20 +14,20 @@ Welcome to **Portify**! 🚀 A sleek and animated landing page designed to make 
 ---
 
 ## 📸 **Preview**  
-🌐 **Live Demo:** [Portify Live](portify.vercel.app)  
+🌐 **Live Demo:** [Portify Live](portifyn.vercel.app)  
 Here's a sneak peek:  
-###Hero Section
+### Hero Section
 ![Hero Section1](./Assets/samples/home1.png)
 ---
 ![Hero Section2](./Assets/samples/home2.png)
 ---
-###Footer Section
+### Footer Section
 ![Footer Section](./Assets/samples/footer.png)
 ---
-###Login Page
+### Login Page
 ![Login Page](./Assets/samples/login.png)
 ---
-###SignUp Page
+### SignUp Page
 ![SignUp Page](./Assets/samples/signup.png)
 
 ---
